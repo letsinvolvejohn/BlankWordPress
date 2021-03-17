@@ -1,4 +1,4 @@
-# Wordpress HTML5 Boilerplated Blank Theme
+# Wordpress HTML5 Boilerplate Blank Theme
 
 ## Installation
 
